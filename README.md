@@ -7,8 +7,10 @@ ChefMate is an **advanced generative AI application** developed in collaboration
 ---
 
 ## 📸 See ChefMate in Action
-<img width="911" alt="image" src="https://github.com/user-attachments/assets/784d1826-a164-446d-a583-5225615c9498">
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d01e15d4-5e59-4389-9fad-384631845f2d" />
+
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/784d1826-a164-446d-a583-5225615c9498">
+
 <img width="1853" height="293" alt="image" src="https://github.com/user-attachments/assets/3cd5c4c9-37ba-4b1e-b9f6-ec47efa1b001" />
 
 
